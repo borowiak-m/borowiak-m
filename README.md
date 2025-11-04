@@ -12,7 +12,7 @@
 
 
 - 👋 Hi                              My name is Mariusz
-- :telescope:                         I work as a Systems Integrations Developer
+- :telescope:                         I work as a Solution Architect (ex-developer) 
 - 👀 I’m interested in               Travel | Fitness | Healthy eating | Scifi | Social impact of Tech
 - 🌱 I’m currently learning          How to survive a high caffeine spike without cold shivers
 ---
