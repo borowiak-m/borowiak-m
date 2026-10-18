@@ -20,7 +20,7 @@ Current builds — private deployments, public repos land here soon:
 
 ## Supply chain
 
-RELEX demand planning · SAP ECC6 · WMS/ERP · EDI ordering · multi-country rollout architecture (discovery → integrations → cutover → hypercare → value)
+RELEX demand planning · SAP ECC6 · WMS/ERP · EDI ordering · multi-country rollout architecture (discovery → integrations → cutover → hypercare)
 
 ## Stack
 
